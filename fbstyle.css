@@ -104,6 +104,6 @@ body{
     width: 70px;
 }
 .footer{
-    font-size: medium;
-    opacity: 20px;
+    font-size: small;
+    color: #a4a4a7;
 }
