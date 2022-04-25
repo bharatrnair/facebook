@@ -91,3 +91,19 @@ body{
     display: grid;
     gap: 10px;
 }
+.details{
+    font-size: small;
+    text-align: justify;
+    text-justify: inter-word;
+}
+#signUp{
+    background-color: #075410;
+    color: #ffff;
+    margin-left: 1200px;
+    height: 40px;
+    width: 70px;
+}
+.footer{
+    font-size: medium;
+    opacity: 20px;
+}
