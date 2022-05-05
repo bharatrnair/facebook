@@ -93,8 +93,7 @@ body{
 }
 .details{
     font-size: small;
-    text-align: justify;
-    text-justify: inter-word;
+    max-width: 400px;
 }
 #signUp{
     background-color: #075410;
